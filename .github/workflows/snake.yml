@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ AbdulRehman19721986 }}
+          github_user_name: AbdulRehman19721986
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
