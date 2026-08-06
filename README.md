@@ -7,8 +7,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=red&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=AbdulRehman19721986&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/AbdulRehman19721986?tab=followers"><img src="https://img.shields.io/github/followers/AbdulRehman19721986?color=red&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" /></a>
 <img src="https://img.shields.io/badge/TEAM-RED%20X-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Team Red X" />
 
 </div>
