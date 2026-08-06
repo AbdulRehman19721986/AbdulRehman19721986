@@ -1,5 +1,13 @@
 
 
+https://github.com/user-attachments/assets/b4b79d23-b8b3-4a09-bb90-bfd1b1f36dd1
+
+
+
+https://github.com/user-attachments/assets/7b2fee1d-2136-42e0-a26a-83aa257642f3
+
+
+
 Uploading WhatsApp Video 2026-08-06 at 11.05.57 (3).mp4…
 
 <div align="center">
@@ -36,7 +44,7 @@ Delete this comment block after inserting your video link.
 - 💻 **Full Stack Developer** — building modern, scalable web applications end-to-end
 - 🛡️ **Ethical Hacker & Security Researcher** — penetration testing, bug hunting & vulnerability research
 - 🌱 Always learning new exploits, frameworks & technologies
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **abdulrehman19721986@gmail.com**
 
 ---
 
