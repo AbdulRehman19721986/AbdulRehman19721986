@@ -1,14 +1,8 @@
 
 
-https://github.com/user-attachments/assets/b4b79d23-b8b3-4a09-bb90-bfd1b1f36dd1
 
 
 
-https://github.com/user-attachments/assets/7b2fee1d-2136-42e0-a26a-83aa257642f3
-
-
-
-Uploading WhatsApp Video 2026-08-06 at 11.05.57 (3).mp4…
 
 <div align="center">
 
@@ -23,18 +17,7 @@ Uploading WhatsApp Video 2026-08-06 at 11.05.57 (3).mp4…
 
 ## 🎥 Intro Video
 
-<!--
-⚠️ IMPORTANT — HOW TO MAKE THE VIDEO PLAY WITH SOUND:
-1. Open this README in GitHub's web editor (pencil icon).
-2. DRAG & DROP your .mp4 file directly into the editor.
-3. GitHub uploads it and inserts a link like:
-   https://github.com/user-attachments/assets/xxxxxxxx.mp4
-4. GitHub renders it as a built-in video player WITH audio. Max size: 10 MB.
-   (If your video is larger, compress it first or upload to YouTube — see below.)
-Delete this comment block after inserting your video link.
--->
-
-<!-- Paste your drag-and-dropped video link here -->
+https://github.com/user-attachments/assets/7b2fee1d-2136-42e0-a26a-83aa257642f3
 
 ---
 
