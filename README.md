@@ -1,3 +1,7 @@
+
+
+Uploading WhatsApp Video 2026-08-06 at 11.05.57 (3).mp4…
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Abdul+Rehman+Rajpoot;Full+Stack+Developer;Ethical+Hacker+%7C+Security+Researcher;Founder+%26+Owner+of+Team+Red+X" alt="Typing SVG" />
