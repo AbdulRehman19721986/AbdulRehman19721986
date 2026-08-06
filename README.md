@@ -1,248 +1,128 @@
-```md
+<!-- HEADER -->
 <div align="center">
-
-# ⚡ Abdul Rehman Rajpoot
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=900&color=FF2D55&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+Backend+%7C+Frontend+%7C+DevOps;🤖+AI+Engineer+%26+Automation+Developer;🔐+Cyber+Security+Enthusiast;⚡+Always+Building+Something+Amazing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,18,24&text=Welcome%20To%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=AbdulRehman19721986&style=for-the-badge&color=red"/>
-
-<img src="https://img.shields.io/github/followers/AbdulRehman19721986?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/AbdulRehman19721986?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Available-Freelance-success?style=for-the-badge"/>
-
-</p>
-
----
-
-# 👨‍💻 About Me
-
-💎 **Developer Name:** Abdul Rehman Rajpoot
-
-🚀 Professional Full Stack Developer passionate about building scalable, secure, enterprise-grade software and automation systems.
-
-I enjoy designing modern web applications, AI solutions, cloud infrastructure, backend architectures, REST APIs, developer tools, and automation platforms. My focus is clean architecture, performance, security, and user experience.
-
-### 🎯 Vision
-
-> Building software that solves real-world problems and impacts millions of users.
-
----
-
-# 🚀 Core Expertise
-
-- 🌐 Full Stack Development
-- ⚙ Backend Engineering
-- 🎨 Frontend Engineering
-- ☁ Cloud Deployment
-- 🔥 DevOps
-- 🤖 Artificial Intelligence
-- 🧠 AI Agents
-- 🔐 Cyber Security
-- 📱 WhatsApp Bot Development
-- 🔌 REST APIs
-- 📊 Database Design
-- ⚡ Performance Optimization
-- 🔒 Authentication Systems
-- 📦 Scalable Architecture
-
----
-
-# 💻 Technology Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,bash"/>
-
-</p>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite"/>
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vercel,cloudflare"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop"/>
-
----
-
-# 📈 GitHub Statistics
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Abdul+Rehman+Rajpoot;Full+Stack+Developer+%26+Hacker;Owner+of+Team+Red+X" alt="Typing SVG" />
+</div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team-Red%20X-red?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical-Hacker-black?style=for-the-badge&logo=hackthebox&logoColor=green" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman19721986&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman19721986&theme=tokyonight&hide_border=true"/>
+### 👾 About Me
+$ whoami
 
+Abdul Rehman Rajpoot — a.k.a. the ghost in the shell 🕵️‍♂️
+
+$ cat /etc/motd
+
+Full Stack Developer by day, ethical hacker by night.
+Founder & leader of Team Red X 🔴 — where offense meets defense.
+I break things to make them stronger. Then I build them back from scratch.
+
+text
+
+- 🔴 **Team Red X**: A collective of elite security researchers, red teamers, and exploit developers.  
+- 🧩 **Full Stack Arsenal**: From front‑end finesse to back‑end brutality, I ship secure, scalable code.  
+- 🧠 **Mindset**: Think like an attacker, code like a craftsman, deliver like a machine.  
+- 🔗 **Motto**: “In a world full of users, be the root.”
+
+---
+
+### 🛡️ Core Competencies
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+#### 💻 Full Stack Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+    </td>
+    <td valign="top" width="50%">
+
+#### 🕶️ Cybersecurity & Red Teaming
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F26625?logo=burpsuite&logoColor=white&style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-003B57?logo=metasploit&logoColor=white&style=flat)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logo=nmap&logoColor=white&style=flat)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white&style=flat)
+![CTF Player](https://img.shields.io/badge/-CTF_Player-FFB000?logo=tryhackme&logoColor=black&style=flat)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 Team Red X – We Are Legion
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team%20Red%20X-Official-red?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
+> **Red X** is not just a team — it’s an ideology. We simulate advanced threats, uncover zero‑days, and harden digital fortresses. If you’re a defender who thinks like an attacker, you belong with us.
+
+- 🎯 **Red Team Operations** – Adversary emulation, phishing, lateral movement.  
+- 🧬 **Exploit Development** – Buffer overflows, web app exploits, privilege escalation.  
+- 📡 **OSINT & Recon** – Information is the first weapon.  
+- 🧪 **Labs & Research** – Breaking and building with cutting‑edge tools.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman19721986&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+### 🌐 Connect with Me
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman19721986&theme=react-dark"/>
-
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://teamredx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Team%20Red%20X-Website-red?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🎴 Hacker’s Mantra
+
+> *“The quieter you become, the more you are able to hear.”*  
+> — Kali Linux
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman19721986&theme=algolia&column=4&margin-w=15"/>
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔥 RedX Hosting | Enterprise Hosting Platform |
-| 🤖 REDXBOT302 | Advanced WhatsApp Bot |
-| 🧠 Myraa AI | AI Assistant Platform |
-| ⚡ AI Automation | Automation Systems |
-| 🔐 Cyber Toolkit | Security Tools |
-| 🌐 Portfolio | Modern Developer Portfolio |
-
----
-
-# 🎯 Current Goals
-
-- Build enterprise SaaS products
-- Create advanced AI agents
-- Master cloud-native architecture
-- Contribute to open source
-- Publish developer tools
-- Build scalable APIs
-- Learn Kubernetes
-- Learn Rust & Go
-- Improve system design
-- Build globally used software
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- Docker Swarm
-- Microservices
-- AI Agents
-- LLM Integration
-- LangChain
-- MCP
-- System Design
-- Distributed Systems
-- AWS
-- Azure
-- Google Cloud
-
----
-
-# 🏅 Certifications (Coming Soon)
-
-- AWS
-- Google Cloud
-- Azure
-- Cisco
-- Linux Foundation
-- Meta
-- Microsoft
-
----
-
-# 📊 Development Philosophy
-
-✔ Clean Code
-
-✔ SOLID Principles
-
-✔ Scalable Architecture
-
-✔ Performance First
-
-✔ Security First
-
-✔ Responsive UI
-
-✔ Modern Design
-
-✔ Reusable Components
-
-✔ API-First Development
-
-✔ Continuous Learning
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/AbdulRehman19721986">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**
-
----
-
-# ⭐ Thank You
-
-If you like my work, consider following my profile and starring my repositories.
-
-**Happy Coding! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,18,24"/>
-
-```
+<!-- SNAKE ANIMATION (Optional) -->
+<!--
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+-->
