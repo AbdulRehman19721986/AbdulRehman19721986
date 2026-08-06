@@ -110,7 +110,7 @@ https://github.com/user-attachments/assets/7b2fee1d-2136-42e0-a26a-83aa257642f3
 <!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AbdulRehman19721986/AbdulRehman19721986/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
