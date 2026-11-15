@@ -15,6 +15,20 @@
 
 <br/>
 
+<!-- ═══════════════ OFFICIAL REDX PROJECTS & DEVELOPER IDENTITY ═══════════════ -->
+## 🔴 Official REDX Projects
+
+**REDX MINI BOT (REDXMINIBOT)** is the REDX WhatsApp pairing website for phone-number and QR-code pairing.
+
+- **Official website:** [redxminibot.vercel.app](https://redxminibot.vercel.app/)
+- **Public WhatsApp bot project:** [REDx MD Bot — REDXBOT-MD](https://github.com/AbdulRehman19721986/REDXBOT-MD)
+- **Developer and owner:** [Abdul Rehman Rajpoot (@AbdulRehman19721986)](https://github.com/AbdulRehman19721986)
+- **Team:** Team RedX
+
+**REDx MD Bot / REDXBOT302** and **REDX MINI BOT** are related projects maintained by the same developer. The REDX MINI BOT website is the official pairing destination.
+
+<br/>
+
 <!-- ═══════════════ INTRO VIDEO ═══════════════ -->
 <h2 align="center">🎥 Watch My Intro</h2>
 
@@ -74,14 +88,14 @@ https://github.com/user-attachments/assets/7b2fee1d-2136-42e0-a26a-83aa257642f3
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&ring_color=FF0000" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF0000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman19721986&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&ring_color=FF0000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman19721986&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF0000" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman19721986&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=high-contrast&bg_color=0d1117&color=ffffff&line=FF0000&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman19721986&theme=high-contrast&bg_color=0d1117&color=ffffff&line=FF0000&point=ffffff&hide_border=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman19721986&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
