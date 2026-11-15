@@ -22,7 +22,7 @@
 
 - **Official website:** [redxminibot.vercel.app](https://redxminibot.vercel.app/)
 - **Public WhatsApp bot project:** [REDx MD Bot — REDXBOT-MD](https://github.com/AbdulRehman19721986/REDXBOT-MD)
-- **Developer and owner:** [Abdul Rehman Rajpoot (@AbdulRehman19721986)](https://github.com/AbdulRehman19721986)
+- **Developer and owner:** [Abdul Rehman Rajpoot (also known as AbdulRehmanRajpoot; GitHub @AbdulRehman19721986)](https://github.com/AbdulRehman19721986)
 - **Team:** Team RedX
 
 **REDx MD Bot / REDXBOT302** and **REDX MINI BOT** are related projects maintained by the same developer. The REDX MINI BOT website is the official pairing destination.
